@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./nave.png](Han Solo Millenium Falcon Star Wars)
+![Han Solo Millenium Falcon Star Wars](./nave.png)
 
 Este repositório serve de exemplo para o curso de git e github
